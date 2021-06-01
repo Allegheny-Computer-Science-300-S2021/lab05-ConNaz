@@ -31,7 +31,11 @@ The proof I have is purely from the alignment and algorithm shown above. No havi
 #### Part 2
  1. How much similarity exists between each of the sequences to the others?
 
-#TODO
+![H5N1 chicken vs avian](https://user-images.githubusercontent.com/80183852/120261088-3153e800-c265-11eb-8e65-d7aaeba48f17.JPG)
+![H5N1 chicken vs human](https://user-images.githubusercontent.com/80183852/120261090-31ec7e80-c265-11eb-9177-769f0d6ecbe9.JPG)
+![H5N1 Human vs avian](https://user-images.githubusercontent.com/80183852/120261091-31ec7e80-c265-11eb-8d63-1c40a70ffc5e.JPG)
+-=]
+
 
 
  2. Based on your results so far (which are too few to provide a comprehensive study), do you believe there is evidence that human adaptation is occurring in H5N1 viruses that might merit concern about human-to-human transmission in the near future?
